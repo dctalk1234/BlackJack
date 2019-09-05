@@ -1,0 +1,17 @@
+﻿  BlackJack.cpp
+c:\users\nathaniel stack\documents\oop\lab7 nathaniel stack\lab7 nathaniel stack\blackjack.cpp(65): warning C4302: '<function-style-cast>': truncation from 'const char *' to 'char'
+c:\users\nathaniel stack\documents\oop\lab7 nathaniel stack\lab7 nathaniel stack\blackjack.cpp(411): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nathaniel stack\documents\oop\lab7 nathaniel stack\lab7 nathaniel stack\blackjack.cpp(423): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nathaniel stack\documents\oop\lab7 nathaniel stack\lab7 nathaniel stack\blackjack.cpp(437): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nathaniel stack\documents\oop\lab7 nathaniel stack\lab7 nathaniel stack\blackjack.cpp(456): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nathaniel stack\documents\oop\lab7 nathaniel stack\lab7 nathaniel stack\blackjack.cpp(474): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nathaniel stack\documents\oop\lab7 nathaniel stack\lab7 nathaniel stack\blackjack.cpp(495): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  card.cpp
+  Deck.cpp
+  Hand.cpp
+c:\users\nathaniel stack\documents\oop\lab7 nathaniel stack\lab7 nathaniel stack\hand.cpp(119): warning C4302: '<function-style-cast>': truncation from 'const char *' to 'char'
+  main.cpp
+  Player.cpp
+  RandNumGen.cpp
+  Generating Code...
+  Lab7 Nathaniel Stack.vcxproj -> C:\Users\Nathaniel Stack\Documents\OOP\Lab7 Nathaniel Stack\x64\Debug\Lab7 Nathaniel Stack.exe
